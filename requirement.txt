@@ -1,0 +1,4 @@
+pytorch=0.4.0
+python=2.7
+h5py
+nltk
